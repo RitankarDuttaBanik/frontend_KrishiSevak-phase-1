@@ -1,2 +1,2 @@
-# Front_End (krishi-seyahak)
+# Front_End (krishiSevak)
 This is the intial work done on the frontend framework of Krishisevak ...
